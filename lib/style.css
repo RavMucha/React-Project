@@ -1,0 +1,9 @@
+/* Add your styles here */
+h2 {
+  color: darkorange;
+  font-variant: small-caps;
+}
+h3 {
+  color: green;
+  font-style: italic;
+}
