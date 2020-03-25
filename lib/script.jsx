@@ -1,5 +1,3 @@
-import React, { Component } from 'react';
-
 var Product = React.createClass({
     getInitialState: function() {
         return { qty: 0 };
